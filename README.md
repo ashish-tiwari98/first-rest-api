@@ -1,1 +1,1 @@
-# first-rest-api
+# first-rest-api using Spring Boot application
